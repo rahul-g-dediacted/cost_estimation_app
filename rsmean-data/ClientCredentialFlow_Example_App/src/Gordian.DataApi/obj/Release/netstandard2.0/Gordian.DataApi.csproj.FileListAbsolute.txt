@@ -1,9 +1,0 @@
-C:\Users\X\Documents\usa\Reactjs\rsmean-data\ClientCredentialFlow_Example_App\src\Gordian.DataApi\bin\Release\netstandard2.0\Gordian.DataApi.deps.json
-C:\Users\X\Documents\usa\Reactjs\rsmean-data\ClientCredentialFlow_Example_App\src\Gordian.DataApi\bin\Release\netstandard2.0\Gordian.DataApi.dll
-C:\Users\X\Documents\usa\Reactjs\rsmean-data\ClientCredentialFlow_Example_App\src\Gordian.DataApi\bin\Release\netstandard2.0\Gordian.DataApi.pdb
-C:\Users\X\Documents\usa\Reactjs\rsmean-data\ClientCredentialFlow_Example_App\src\Gordian.DataApi\obj\Release\netstandard2.0\Gordian.DataApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\X\Documents\usa\Reactjs\rsmean-data\ClientCredentialFlow_Example_App\src\Gordian.DataApi\obj\Release\netstandard2.0\Gordian.DataApi.AssemblyInfoInputs.cache
-C:\Users\X\Documents\usa\Reactjs\rsmean-data\ClientCredentialFlow_Example_App\src\Gordian.DataApi\obj\Release\netstandard2.0\Gordian.DataApi.AssemblyInfo.cs
-C:\Users\X\Documents\usa\Reactjs\rsmean-data\ClientCredentialFlow_Example_App\src\Gordian.DataApi\obj\Release\netstandard2.0\Gordian.DataApi.csproj.CoreCompileInputs.cache
-C:\Users\X\Documents\usa\Reactjs\rsmean-data\ClientCredentialFlow_Example_App\src\Gordian.DataApi\obj\Release\netstandard2.0\Gordian.DataApi.dll
-C:\Users\X\Documents\usa\Reactjs\rsmean-data\ClientCredentialFlow_Example_App\src\Gordian.DataApi\obj\Release\netstandard2.0\Gordian.DataApi.pdb
