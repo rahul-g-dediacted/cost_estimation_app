@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ApplicationPackage>
+  <Components Description="Export images">
+    <RuntimeRequirements OS="Win64"
+                         Platform="Revit"
+                         SeriesMin="R2019"
+                         SeriesMax="R2022" />
+    <ComponentEntry AppName="ExportImagesCastingReport"
+                    Version="1.0.0"
+                    ModuleName="./Contents/ExportImagesCastingReport.addin"
+                    AppDescription="Export images"
+                    LoadOnCommandInvocation="False"
+                    LoadOnRevitStartup="True" />
+  </Components>
+</ApplicationPackage>

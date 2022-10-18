@@ -1,0 +1,15 @@
+C:\Users\dflamm\source\repos\ClientCredentialFlow\Gordian.DataApi.Client\bin\Debug\netcoreapp2.1\Gordian.DataApi.Client.deps.json
+C:\Users\dflamm\source\repos\ClientCredentialFlow\Gordian.DataApi.Client\bin\Debug\netcoreapp2.1\Gordian.DataApi.Client.dll
+C:\Users\dflamm\source\repos\ClientCredentialFlow\Gordian.DataApi.Client\obj\Debug\netcoreapp2.1\Gordian.DataApi.Client.csproj.CoreCompileInputs.cache
+C:\Users\dflamm\source\repos\ClientCredentialFlow\Gordian.DataApi.Client\obj\Debug\netcoreapp2.1\Gordian.DataApi.Client.AssemblyInfoInputs.cache
+C:\Users\dflamm\source\repos\ClientCredentialFlow\Gordian.DataApi.Client\obj\Debug\netcoreapp2.1\Gordian.DataApi.Client.AssemblyInfo.cs
+C:\Users\dflamm\source\repos\ClientCredentialFlow\Gordian.DataApi.Client\obj\Debug\netcoreapp2.1\Gordian.DataApi.Client.csprojAssemblyReference.cache
+C:\Users\dflamm\source\repos\ClientCredentialFlow\src\Gordian.DataApi.Client\obj\Debug\netcoreapp2.1\Gordian.DataApi.Client.csprojAssemblyReference.cache
+C:\Users\dflamm\source\repos\ClientCredentialFlow\src\Gordian.DataApi.Client\obj\Debug\netcoreapp2.1\Gordian.DataApi.Client.csproj.CoreCompileInputs.cache
+C:\Users\dflamm\source\repos\ClientCredentialFlow\src\Gordian.DataApi.Client\obj\Debug\netcoreapp2.1\Gordian.DataApi.Client.AssemblyInfoInputs.cache
+C:\Users\dflamm\source\repos\ClientCredentialFlow\src\Gordian.DataApi.Client\obj\Debug\netcoreapp2.1\Gordian.DataApi.Client.AssemblyInfo.cs
+C:\Users\dflamm\source\repos\ClientCredentialFlow\src\Gordian.DataApi.Client\bin\Debug\netcoreapp2.1\Gordian.DataApi.Client.deps.json
+C:\Users\dflamm\source\repos\ClientCredentialFlow\src\Gordian.DataApi.Client\bin\Debug\netcoreapp2.1\Gordian.DataApi.Client.dll
+C:\Users\dflamm\source\repos\ClientCredentialFlow\src\Gordian.DataApi.Client\bin\Debug\netcoreapp2.1\Gordian.DataApi.Client.pdb
+C:\Users\dflamm\source\repos\ClientCredentialFlow\src\Gordian.DataApi.Client\obj\Debug\netcoreapp2.1\Gordian.DataApi.Client.dll
+C:\Users\dflamm\source\repos\ClientCredentialFlow\src\Gordian.DataApi.Client\obj\Debug\netcoreapp2.1\Gordian.DataApi.Client.pdb

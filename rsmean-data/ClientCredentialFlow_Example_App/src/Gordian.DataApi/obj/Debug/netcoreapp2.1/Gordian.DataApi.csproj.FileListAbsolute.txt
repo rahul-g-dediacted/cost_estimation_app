@@ -1,0 +1,17 @@
+C:\Users\dflamm\source\repos\ClientCredentialFlow\src\Gordian.DataApi\bin\Debug\netcoreapp2.1\Gordian.DataApi.deps.json
+C:\Users\dflamm\source\repos\ClientCredentialFlow\src\Gordian.DataApi\bin\Debug\netcoreapp2.1\Gordian.DataApi.dll
+C:\Users\dflamm\source\repos\ClientCredentialFlow\src\Gordian.DataApi\bin\Debug\netcoreapp2.1\Gordian.DataApi.pdb
+C:\Users\dflamm\source\repos\ClientCredentialFlow\src\Gordian.DataApi\obj\Debug\netcoreapp2.1\Gordian.DataApi.csprojAssemblyReference.cache
+C:\Users\dflamm\source\repos\ClientCredentialFlow\src\Gordian.DataApi\obj\Debug\netcoreapp2.1\Gordian.DataApi.csproj.CoreCompileInputs.cache
+C:\Users\dflamm\source\repos\ClientCredentialFlow\src\Gordian.DataApi\obj\Debug\netcoreapp2.1\Gordian.DataApi.AssemblyInfoInputs.cache
+C:\Users\dflamm\source\repos\ClientCredentialFlow\src\Gordian.DataApi\obj\Debug\netcoreapp2.1\Gordian.DataApi.AssemblyInfo.cs
+C:\Users\dflamm\source\repos\ClientCredentialFlow\src\Gordian.DataApi\obj\Debug\netcoreapp2.1\Gordian.DataApi.dll
+C:\Users\dflamm\source\repos\ClientCredentialFlow\src\Gordian.DataApi\obj\Debug\netcoreapp2.1\Gordian.DataApi.pdb
+C:\0Data2\BIM\src\Gordian.DataApi\bin\Debug\netcoreapp2.1\Gordian.DataApi.deps.json
+C:\0Data2\BIM\src\Gordian.DataApi\bin\Debug\netcoreapp2.1\Gordian.DataApi.dll
+C:\0Data2\BIM\src\Gordian.DataApi\bin\Debug\netcoreapp2.1\Gordian.DataApi.pdb
+C:\0Data2\BIM\src\Gordian.DataApi\obj\Debug\netcoreapp2.1\Gordian.DataApi.csprojAssemblyReference.cache
+C:\0Data2\BIM\src\Gordian.DataApi\obj\Debug\netcoreapp2.1\Gordian.DataApi.AssemblyInfoInputs.cache
+C:\0Data2\BIM\src\Gordian.DataApi\obj\Debug\netcoreapp2.1\Gordian.DataApi.AssemblyInfo.cs
+C:\0Data2\BIM\src\Gordian.DataApi\obj\Debug\netcoreapp2.1\Gordian.DataApi.dll
+C:\0Data2\BIM\src\Gordian.DataApi\obj\Debug\netcoreapp2.1\Gordian.DataApi.pdb

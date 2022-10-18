@@ -1,0 +1,1 @@
+export const getPricesButton = {backgroundColor: '#1a90fb', marginLeft: 10, padding: '0 2px', borderRadius: 2};
